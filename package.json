@@ -1,0 +1,23 @@
+{
+  "name": "advanced-backup-manager",
+  "version": "1.0.0",
+  "description": "Advanced Backup Manager For WordPress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salihonder05/advanced-backup-manager.git"
+  },
+  "author": "Salih ÖNDER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salihonder05/advanced-backup-manager/issues"
+  },
+  "homepage": "https://github.com/salihonder05/advanced-backup-manager#readme",
+  "keywords": [
+    "backup",
+    "wordpress"
+  ]
+}
